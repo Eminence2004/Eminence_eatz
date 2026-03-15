@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "353404688286",
+    "project_id": "eminence-eatz-813c3",
+    "storage_bucket": "eminence-eatz-813c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353404688286:android:5d356781d260b07ff8688f",
+        "android_client_info": {
+          "package_name": "com.example.eminence_eatz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApnKzjbVE8_m42SEvAaZmoez9bKPlRRSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
